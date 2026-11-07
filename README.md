@@ -98,6 +98,11 @@ Created business-ready summary tables.
 | gold_channel_summary | Booking channel and cancellation analysis |
 | gold_data_quality | Data quality and reconciliation |
 
+
+<img width="957" height="462" alt="image" src="https://github.com/user-attachments/assets/be372a99-4375-41b6-95ec-544a42b54cc6" />
+
+
+
 ## 📊 Dashboard Development
 
 Created a dashboard using Databricks AI/BI Dashboards to visualize business performance.
