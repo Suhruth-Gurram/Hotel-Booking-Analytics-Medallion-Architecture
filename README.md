@@ -61,6 +61,12 @@ The project uses a synthetic Hotel Booking Dataset containing:
 
 The project follows a three-layer Medallion Architecture.
 
+![Medallion Architecture](architecture/medallion_architecture.png)
+
+### Architecture Workflow
+
+Source CSV → Bronze Layer → Silver Layer → Gold Layer → Dashboard
+
 ### Architecture Workflow
 
 Source CSV → Bronze Layer → Silver Layer → Gold Layer → Dashboard
