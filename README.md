@@ -132,6 +132,11 @@ Created a dashboard using Databricks AI/BI Dashboards to visualize business perf
 - Data quality checks
 - Reconciliation results
 
+  <img width="1252" height="825" alt="image" src="https://github.com/user-attachments/assets/e50961a0-b563-40f0-ac50-802138687f59" />
+
+  published link:https://dbc-d929a080-5434.cloud.databricks.com/dashboardsv3/01f1da9c688d11fa991b0d3b3fbce2a7/published?o=7474657309836429
+
+
 ## 🧹 Data Quality & Validation
 
 Implemented data quality checks to improve the reliability of the booking data.
@@ -161,18 +166,6 @@ The Gold layer supports analysis of:
 
 Cancelled bookings are retained in the Silver layer but excluded from Gold revenue calculations.
 
-## 📁 Project Structure
-
-```text
-Hotel-Booking-Medallion-Data-Engineering/
-│
-├── README.md
-├── Architecture/
-├── SQL/
-├── Screenshots/
-├── Dashboard/
-└── Documentation/
-```
 
 ## 🚀 Key Learnings
 
