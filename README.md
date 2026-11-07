@@ -61,7 +61,6 @@ The project uses a synthetic Hotel Booking Dataset containing:
 
 The project follows a three-layer Medallion Architecture.
 
-![Medallion Architecture](architecture/medallion_architecture.png)
 
 ### Architecture Workflow
 
@@ -140,7 +139,7 @@ Created a dashboard using Databricks AI/BI Dashboards to visualize business perf
 
   <img width="1252" height="825" alt="image" src="https://github.com/user-attachments/assets/e50961a0-b563-40f0-ac50-802138687f59" />
 
-  published link:https://dbc-d929a080-5434.cloud.databricks.com/dashboardsv3/01f1da9c688d11fa991b0d3b3fbce2a7/published?o=7474657309836429
+  published link: https://dbc-d929a080-5434.cloud.databricks.com/dashboardsv3/01f1da9c688d11fa991b0d3b3fbce2a7/published?o=7474657309836429
 
 
 ## 🧹 Data Quality & Validation
@@ -171,6 +170,15 @@ The Gold layer supports analysis of:
 - Revenue generated from completed bookings.
 
 Cancelled bookings are retained in the Silver layer but excluded from Gold revenue calculations.
+
+## 📊 Project Results
+
+- Successfully implemented Bronze, Silver, and Gold layers.
+- Developed automated data ingestion and transformation pipelines.
+- Created cleaned and validated booking datasets.
+- Built business-level aggregation tables.
+- Developed interactive dashboards for hotel booking analysis.
+- Implemented data quality checks and reconciliation.
 
 
 ## 🚀 Key Learnings
