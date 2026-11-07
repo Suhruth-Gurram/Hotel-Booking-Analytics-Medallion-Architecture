@@ -11,6 +11,8 @@ The objective is to transform raw hotel booking data into clean, reliable, and b
 
 The project demonstrates data ingestion, data cleaning, data transformation, data quality validation, and dashboard development.
 
+
+
 ## 🎯 Project Objectives
 
 - Ingest raw hotel booking data into Databricks.
@@ -60,6 +62,9 @@ The project uses a synthetic Hotel Booking Dataset containing:
 ## 🏗️ Medallion Architecture
 
 The project follows a three-layer Medallion Architecture.
+
+<img width="700" height="390" alt="image" src="https://github.com/user-attachments/assets/ad226740-d857-4073-bd67-b7d76a97db1f" />
+
 
 
 ### Architecture Workflow
