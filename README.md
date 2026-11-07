@@ -1,4 +1,3 @@
-# Hotel-Booking-Analytics-Medallion-Architecture
 
 # Hotel Booking Analytics Using Databricks | Medallion Architecture 🚀
 
